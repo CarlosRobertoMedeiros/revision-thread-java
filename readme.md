@@ -10,13 +10,19 @@
 	
 	#Working With Threads
 	
-		Java MultiThread
+		- Creating Threads
 			
 			- Actual Thread
 			- New Thread Start / Run
 			- Runnable(Like Lambda)
 			- Start several times
 			- Several Threads
+		
+		- Java MultiThread Synchronized
+			
+			- 
+			
+		
 		
 		
 		
